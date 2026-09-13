@@ -1,0 +1,220 @@
+======================================================================
+  INFORME ESTADISTICAS - ULTIMOS PARTIDOS
+  Partido principal: Real Sociedad  vs  Atlético de Madrid
+  Generado: 2026-09-13 20:29
+======================================================================
+
+----------------------------------------------------------------------
+  ULTIMOS 5 PARTIDOS DE REAL SOCIEDAD
+----------------------------------------------------------------------
+
+  Partido 1:  Elche  vs  Real Sociedad   |   Resultado: 2 - 3
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 13  |  Elche 20
+    Remates a puerta:  Real Sociedad 6  |  Elche 10
+    Corners:           Real Sociedad 7  |  Elche 6
+    Tarjetas amarillas: Real Sociedad 1  |  Elche 4
+    URL partido: https://m.flashscore.es/partido/xnbRmvZ8/?t=estadisticas
+
+  Partido 2:  Real Sociedad  vs  Celta de Vigo   |   Resultado: 0 - 0
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 16  |  Celta de Vigo 7
+    Remates a puerta:  Real Sociedad 5  |  Celta de Vigo 2
+    Corners:           Real Sociedad 11  |  Celta de Vigo 3
+    Tarjetas amarillas: Real Sociedad 2  |  Celta de Vigo 3
+    URL partido: https://m.flashscore.es/partido/GzrJ32nL/?t=estadisticas
+
+  Partido 3:  Real Sociedad  vs  Espanyol   |   Resultado: 2 - 1
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 17  |  Espanyol 11
+    Remates a puerta:  Real Sociedad 10  |  Espanyol 3
+    Corners:           Real Sociedad 7  |  Espanyol 3
+    Tarjetas amarillas: Real Sociedad 2  |  Espanyol 4
+    URL partido: https://m.flashscore.es/partido/nFKoy1k3/?t=estadisticas
+
+  Partido 4:  Real Madrid  vs  Real Sociedad   |   Resultado: 4 - 1
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 10  |  Real Madrid 20
+    Remates a puerta:  Real Sociedad 3  |  Real Madrid 11
+    Corners:           Real Sociedad 7  |  Real Madrid 4
+    Tarjetas amarillas: Real Sociedad 3  |  Real Madrid 3
+    URL partido: https://m.flashscore.es/partido/EXneuDoD/?t=estadisticas
+
+  Partido 5:  Real Betis  vs  Real Sociedad   |   Resultado: 1 - 0
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 9  |  Real Betis 18
+    Remates a puerta:  Real Sociedad 3  |  Real Betis 7
+    Corners:           Real Sociedad 5  |  Real Betis 4
+    Tarjetas amarillas: Real Sociedad 3  |  Real Betis 3
+    URL partido: https://m.flashscore.es/partido/jFuzhjVI/?t=estadisticas
+
+  Resumen 5 partidos:
+    Mas remates: 2 | Mas remates a puerta: 2 | Mas corners: 5 | Mas amarillas: 0
+    Como local (2): Mas remates 2 | Mas remates a puerta 2 | Mas corners 2 | Mas amarillas 0
+    Como visitante (3): Mas remates 0 | Mas remates a puerta 0 | Mas corners 3 | Mas amarillas 0
+    Estadisticas agregadas:
+    Remates: favor media 13.00 | max 17 | min 9 || contra media 15.20 | max 20 | min 7
+    Remates a puerta: favor media 5.40 | max 10 | min 3 || contra media 6.60 | max 11 | min 2
+    Corners: favor media 7.40 | max 11 | min 5 || contra media 4.00 | max 6 | min 3
+    Tarjetas amarillas: favor media 2.20 | max 3 | min 1 || contra media 3.40 | max 4 | min 3
+
+----------------------------------------------------------------------
+  ULTIMOS 5 PARTIDOS DE ATLÉTICO DE MADRID
+----------------------------------------------------------------------
+
+  Partido 1:  Liverpool  vs  Atlético de Madrid   |   Resultado: 2 - 1
+  --------------------------------------------------
+    Remates totales:    Atlético de Madrid 9  |  Liverpool 14
+    Remates a puerta:  Atlético de Madrid 4  |  Liverpool 5
+    Corners:           Atlético de Madrid 5  |  Liverpool 7
+    Tarjetas amarillas: Atlético de Madrid 1  |  Liverpool 1
+    URL partido: https://m.flashscore.es/partido/6aa0PFtQ/?t=estadisticas
+
+  Partido 2:  Athletic Club  vs  Atlético de Madrid   |   Resultado: 3 - 0
+  --------------------------------------------------
+    Remates totales:    Atlético de Madrid 15  |  Athletic Club 11
+    Remates a puerta:  Atlético de Madrid 5  |  Athletic Club 4
+    Corners:           Atlético de Madrid 8  |  Athletic Club 3
+    Tarjetas amarillas: Atlético de Madrid 1  |  Athletic Club 0
+    URL partido: https://m.flashscore.es/partido/xS7XRdCk/?t=estadisticas
+
+  Partido 3:  Sevilla  vs  Atlético de Madrid   |   Resultado: 1 - 3
+  --------------------------------------------------
+    Remates totales:    Atlético de Madrid 12  |  Sevilla 20
+    Remates a puerta:  Atlético de Madrid 5  |  Sevilla 5
+    Corners:           Atlético de Madrid 2  |  Sevilla 4
+    Tarjetas amarillas: Atlético de Madrid 2  |  Sevilla 2
+    URL partido: https://m.flashscore.es/partido/KSIgZvKF/?t=estadisticas
+
+  Partido 4:  Atlético de Madrid  vs  Villarreal   |   Resultado: 2 - 2
+  --------------------------------------------------
+    Remates totales:    Atlético de Madrid 19  |  Villarreal 13
+    Remates a puerta:  Atlético de Madrid 4  |  Villarreal 6
+    Corners:           Atlético de Madrid 5  |  Villarreal 3
+    Tarjetas amarillas: Atlético de Madrid 3  |  Villarreal 2
+    URL partido: https://m.flashscore.es/partido/ImSSgC06/?t=estadisticas
+
+  Partido 5:  Atlético de Madrid  vs  Málaga   |   Resultado: 2 - 0
+  --------------------------------------------------
+    Remates totales:    Atlético de Madrid 15  |  Málaga 5
+    Remates a puerta:  Atlético de Madrid 6  |  Málaga 1
+    Corners:           Atlético de Madrid 6  |  Málaga 1
+    Tarjetas amarillas: Atlético de Madrid 2  |  Málaga 3
+    URL partido: https://m.flashscore.es/partido/MX8chH9e/?t=estadisticas
+
+  Resumen 5 partidos:
+    Mas remates: 3 | Mas remates a puerta: 2 | Mas corners: 3 | Mas amarillas: 2
+    Como local (2): Mas remates 2 | Mas remates a puerta 1 | Mas corners 2 | Mas amarillas 1
+    Como visitante (3): Mas remates 1 | Mas remates a puerta 1 | Mas corners 1 | Mas amarillas 1
+    Estadisticas agregadas:
+    Remates: favor media 14.00 | max 19 | min 9 || contra media 12.60 | max 20 | min 5
+    Remates a puerta: favor media 4.80 | max 6 | min 4 || contra media 4.20 | max 6 | min 1
+    Corners: favor media 5.20 | max 8 | min 2 || contra media 3.60 | max 7 | min 1
+    Tarjetas amarillas: favor media 1.80 | max 3 | min 1 || contra media 1.60 | max 3 | min 0
+
+----------------------------------------------------------------------
+  ENFRENTAMIENTOS DIRECTOS REAL SOCIEDAD vs ATLÉTICO DE MADRID
+----------------------------------------------------------------------
+
+  Partido 1:  Atlético de Madrid  vs  Real Sociedad   |   Resultado: 2 - 2
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 15  |  Atlético de Madrid 19
+    Remates a puerta:  Real Sociedad 6  |  Atlético de Madrid 4
+    Corners:           Real Sociedad 6  |  Atlético de Madrid 5
+    Tarjetas amarillas: Real Sociedad 3  |  Atlético de Madrid 2
+    URL partido: https://m.flashscore.es/partido/rL8P7Qig/?t=estadisticas
+
+  Partido 2:  Atlético de Madrid  vs  Real Sociedad   |   Resultado: 3 - 2
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 7  |  Atlético de Madrid 24
+    Remates a puerta:  Real Sociedad 3  |  Atlético de Madrid 9
+    Corners:           Real Sociedad 1  |  Atlético de Madrid 8
+    Tarjetas amarillas: Real Sociedad 1  |  Atlético de Madrid 1
+    URL partido: https://m.flashscore.es/partido/MmKFFMU1/?t=estadisticas
+
+  Partido 3:  Real Sociedad  vs  Atlético de Madrid   |   Resultado: 1 - 1
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 18  |  Atlético de Madrid 10
+    Remates a puerta:  Real Sociedad 8  |  Atlético de Madrid 2
+    Corners:           Real Sociedad 6  |  Atlético de Madrid 6
+    Tarjetas amarillas: Real Sociedad 3  |  Atlético de Madrid 2
+    URL partido: https://m.flashscore.es/partido/zHuMM91l/?t=estadisticas
+
+  Partido 4:  Atlético de Madrid  vs  Real Sociedad   |   Resultado: 4 - 0
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 6  |  Atlético de Madrid 13
+    Remates a puerta:  Real Sociedad 1  |  Atlético de Madrid 7
+    Corners:           Real Sociedad 3  |  Atlético de Madrid 3
+    Tarjetas amarillas: Real Sociedad 1  |  Atlético de Madrid 0
+    URL partido: https://m.flashscore.es/partido/UunfGejL/?t=estadisticas
+
+  Partido 5:  Real Sociedad  vs  Atlético de Madrid   |   Resultado: 1 - 1
+  --------------------------------------------------
+    Remates totales:    Real Sociedad 16  |  Atlético de Madrid 4
+    Remates a puerta:  Real Sociedad 7  |  Atlético de Madrid 1
+    Corners:           Real Sociedad 5  |  Atlético de Madrid 1
+    Tarjetas amarillas: Real Sociedad 0  |  Atlético de Madrid 2
+    URL partido: https://m.flashscore.es/partido/CvbDaBsg/?t=estadisticas
+
+  Resumen 5 partidos:
+    Mas remates: 2 | Mas remates a puerta: 3 | Mas corners: 2 | Mas amarillas: 3
+    Como local (2): Mas remates 2 | Mas remates a puerta 2 | Mas corners 1 | Mas amarillas 1
+    Como visitante (3): Mas remates 0 | Mas remates a puerta 1 | Mas corners 1 | Mas amarillas 2
+    Estadisticas agregadas:
+    Remates: favor media 12.40 | max 18 | min 6 || contra media 14.00 | max 24 | min 4
+    Remates a puerta: favor media 5.00 | max 8 | min 1 || contra media 4.60 | max 9 | min 1
+    Corners: favor media 4.20 | max 6 | min 1 || contra media 4.60 | max 8 | min 1
+    Tarjetas amarillas: favor media 1.60 | max 3 | min 0 || contra media 1.40 | max 2 | min 0
+
+----------------------------------------------------------------------
+  RESUMEN GLOBAL (LOCAL EN CASA VS VISITANTE FUERA)
+----------------------------------------------------------------------
+  Real Sociedad como local: 2 partidos, con mas remates en 2, mas remates a puerta en 2, mas corners en 2 y mas amarillas en 0.
+  Medias Real Sociedad: remates 13.00, remates a puerta 5.40, corners 7.40, amarillas 2.20.
+  Max/Min Real Sociedad: remates 17/9, remates a puerta 10/3, corners 11/5, amarillas 3/1.
+  Atlético de Madrid como visitante: 3 partidos, con mas remates en 1, mas remates a puerta en 1, mas corners en 1 y mas amarillas en 1.
+  Medias Atlético de Madrid: remates 14.00, remates a puerta 4.80, corners 5.20, amarillas 1.80.
+  Max/Min Atlético de Madrid: remates 19/9, remates a puerta 6/4, corners 8/2, amarillas 3/1.
+  Enfrentamientos directos (5 partidos): mas remates en 2, mas remates a puerta en 3, mas corners en 2 y mas amarillas en 3 (perspectiva Real Sociedad).
+  Medias enfrentamientos: remates 12.40, remates a puerta 5.00, corners 4.20, amarillas 1.60.
+  Max/Min enfrentamientos: remates 18/6, remates a puerta 8/1, corners 6/1, amarillas 3/0.
+
+----------------------------------------------------------------------
+  RESUMEN RESULTADOS (G/E/P)
+----------------------------------------------------------------------
+  Real Sociedad: en los ultimos 5, ha ganado 2, empatado 1 y perdido 2 (partidos con marcador: 5).
+  Atlético de Madrid: en los ultimos 5, ha ganado 2, empatado 1 y perdido 2 (partidos con marcador: 5).
+
+----------------------------------------------------------------------
+  INDICADORES AVANZADOS Y SENALES
+----------------------------------------------------------------------
+  Real Sociedad: eficiencia remate 0.22, [BAJO], precision tiro 0.42, [ALTO], dominio neto remates -2.20, [ALTO NEGATIVO], dominio neto puerta -1.20, [MEDIO NEGATIVO], dominio neto corners 3.40.
+  Real Sociedad: intensidad 39.60, [ALTA], agresividad 5.60, [ALTA], tendencia reciente -0.67, [LIGERAMENTE BAJISTA], volatilidad 10.00, [ALTA], indice dominio -0.73, [MEDIO NEGATIVO], indice riesgo gol 12.00.
+  Atlético de Madrid: eficiencia remate 0.33, [MEDIO], precision tiro 0.34, [MEDIO], dominio neto remates 1.40, [MEDIO POSITIVO], dominio neto puerta 0.60, [MEDIO POSITIVO], dominio neto corners 1.60.
+  Atlético de Madrid: intensidad 35.40, [MEDIA], agresividad 3.40, [BAJA], tendencia reciente -0.73, [LIGERAMENTE BAJISTA], volatilidad 5.00, [MEDIA], indice dominio 1.16, [MEDIO POSITIVO], indice riesgo gol 9.00.
+  H2H: over1.5 100.00%, BTTS 80.00%, agresividad 3.00, indice dominio -0.66.
+  Proyecciones partido:
+    Remates a puerta totales esperados: 10.50 | Goles totales esperados: 3.00 | Corners totales esperados: 10.10 | Tarjetas totales esperadas: 4.50
+  Senales de mercado (orientativas):
+    Over 1.5 goles -> score 100/100 (ALTA)
+    Ambos marcan (BTTS) -> score 100/100 (ALTA)
+    Over 8.5 corners -> score 75/100 (ALTA)
+    Over 3.5 tarjetas -> score 60/100 (MEDIA)
+    Local empate no apuesta (DNB) -> score 0/100 (BAJA)
+
+----------------------------------------------------------------------
+  COMO LLEGAN AL PARTIDO
+----------------------------------------------------------------------
+  Real Sociedad: llega con desventaja estadistica moderada, y una dinamica reciente estable; presenta ataque aceptable, ritmo alto y riesgo de gol alto. Balance reciente: 2G-1E-2P.
+  Real Sociedad: sin datos de clasificacion de liga para ampliar el analisis.
+
+  Atlético de Madrid: llega con ligera ventaja estadistica, y una dinamica reciente estable; presenta ataque aceptable, ritmo medio y riesgo de gol alto. Balance reciente: 2G-1E-2P.
+  Atlético de Madrid: sin datos de clasificacion de liga para ampliar el analisis.
+
+----------------------------------------------------------------------
+  POSIBLE PRONOSTICO
+----------------------------------------------------------------------
+  1X2 estimado: 1 (victoria probable de Real Sociedad) | confianza BAJA.
+  Base numerica: goles esperados ajustados Real Sociedad 1.51 - 1.49 Atlético de Madrid (base cruda 1.40 - 1.60); score local 67.68/100.
+  Marcadores correctos orientativos: 2-1 | 2-2 | 1-1
+======================================================================

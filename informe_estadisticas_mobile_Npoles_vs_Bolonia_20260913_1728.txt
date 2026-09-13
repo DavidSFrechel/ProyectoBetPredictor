@@ -1,0 +1,220 @@
+======================================================================
+  INFORME ESTADISTICAS - ULTIMOS PARTIDOS
+  Partido principal: Nápoles  vs  Bolonia
+  Generado: 2026-09-13 17:28
+======================================================================
+
+----------------------------------------------------------------------
+  ULTIMOS 5 PARTIDOS DE NÁPOLES
+----------------------------------------------------------------------
+
+  Partido 1:  Nápoles  vs  Arsenal   |   Resultado: 0 - 1
+  --------------------------------------------------
+    Remates totales:    Nápoles 5  |  Arsenal 26
+    Remates a puerta:  Nápoles 3  |  Arsenal 8
+    Corners:           Nápoles 0  |  Arsenal 6
+    Tarjetas amarillas: Nápoles 2  |  Arsenal 1
+    URL partido: https://m.flashscore.es/partido/juiAv14K/?t=estadisticas
+
+  Partido 2:  Inter  vs  Nápoles   |   Resultado: 3 - 2
+  --------------------------------------------------
+    Remates totales:    Nápoles 16  |  Inter 29
+    Remates a puerta:  Nápoles 7  |  Inter 8
+    Corners:           Nápoles 5  |  Inter 10
+    Tarjetas amarillas: Nápoles 2  |  Inter 1
+    URL partido: https://m.flashscore.es/partido/8vUR2Bp1/?t=estadisticas
+
+  Partido 3:  Nápoles  vs  Como   |   Resultado: 1 - 2
+  --------------------------------------------------
+    Remates totales:    Nápoles 13  |  Como 21
+    Remates a puerta:  Nápoles 2  |  Como 6
+    Corners:           Nápoles 2  |  Como 7
+    Tarjetas amarillas: Nápoles 1  |  Como 0
+    URL partido: https://m.flashscore.es/partido/fHs9cG8L/?t=estadisticas
+
+  Partido 4:  Genoa  vs  Nápoles   |   Resultado: 0 - 2
+  --------------------------------------------------
+    Remates totales:    Nápoles 13  |  Genoa 11
+    Remates a puerta:  Nápoles 4  |  Genoa 2
+    Corners:           Nápoles 5  |  Genoa 5
+    Tarjetas amarillas: Nápoles 1  |  Genoa 2
+    URL partido: https://m.flashscore.es/partido/z9lazV4t/?t=estadisticas
+
+  Partido 5:  Nápoles (Ita)  vs  Aris (Gre)   |   Resultado: 6 - 2
+  --------------------------------------------------
+    Remates totales:    Nápoles (Ita) -  |  Aris (Gre) -
+    Remates a puerta:  Nápoles (Ita) -  |  Aris (Gre) -
+    Corners:           Nápoles (Ita) -  |  Aris (Gre) -
+    Tarjetas amarillas: Nápoles (Ita) -  |  Aris (Gre) -
+    URL partido: https://m.flashscore.es/partido/vRQIj7pB/?t=estadisticas
+
+  Resumen 5 partidos:
+    Mas remates: 1 | Mas remates a puerta: 1 | Mas corners: 0 | Mas amarillas: 3
+    Como local (3): Mas remates 0 | Mas remates a puerta 0 | Mas corners 0 | Mas amarillas 2
+    Como visitante (2): Mas remates 1 | Mas remates a puerta 1 | Mas corners 0 | Mas amarillas 1
+    Estadisticas agregadas:
+    Remates: favor media 11.75 | max 16 | min 5 || contra media 21.75 | max 29 | min 11
+    Remates a puerta: favor media 4.00 | max 7 | min 2 || contra media 6.00 | max 8 | min 2
+    Corners: favor media 3.00 | max 5 | min 0 || contra media 7.00 | max 10 | min 5
+    Tarjetas amarillas: favor media 1.50 | max 2 | min 1 || contra media 1.00 | max 2 | min 0
+
+----------------------------------------------------------------------
+  ULTIMOS 5 PARTIDOS DE BOLONIA
+----------------------------------------------------------------------
+
+  Partido 1:  Bolonia  vs  Sassuolo   |   Resultado: 2 - 2
+  --------------------------------------------------
+    Remates totales:    Bolonia 21  |  Sassuolo 15
+    Remates a puerta:  Bolonia 5  |  Sassuolo 6
+    Corners:           Bolonia 10  |  Sassuolo 7
+    Tarjetas amarillas: Bolonia 3  |  Sassuolo 1
+    URL partido: https://m.flashscore.es/partido/WdymjY0e/?t=estadisticas
+
+  Partido 2:  Atalanta  vs  Bolonia   |   Resultado: 1 - 0
+  --------------------------------------------------
+    Remates totales:    Bolonia 16  |  Atalanta 6
+    Remates a puerta:  Bolonia 3  |  Atalanta 2
+    Corners:           Bolonia 2  |  Atalanta 1
+    Tarjetas amarillas: Bolonia 0  |  Atalanta 1
+    URL partido: https://m.flashscore.es/partido/EqX2s4IN/?t=estadisticas
+
+  Partido 3:  Bolonia  vs  Lazio   |   Resultado: 0 - 1
+  --------------------------------------------------
+    Remates totales:    Bolonia 14  |  Lazio 10
+    Remates a puerta:  Bolonia 5  |  Lazio 3
+    Corners:           Bolonia 8  |  Lazio 6
+    Tarjetas amarillas: Bolonia 4  |  Lazio 4
+    URL partido: https://m.flashscore.es/partido/vm6sImkC/?t=estadisticas
+
+  Partido 4:  Brighton (Eng)  vs  Bolonia (Ita)   |   Resultado: 1 - 0
+  --------------------------------------------------
+    Remates totales:    Bolonia (Ita) -  |  Brighton (Eng) -
+    Remates a puerta:  Bolonia (Ita) -  |  Brighton (Eng) -
+    Corners:           Bolonia (Ita) -  |  Brighton (Eng) -
+    Tarjetas amarillas: Bolonia (Ita) -  |  Brighton (Eng) -
+    URL partido: https://m.flashscore.es/partido/x4D84bbc/?t=estadisticas
+
+  Partido 5:  Bolonia (Ita)  vs  Pisa (Ita)   |   Resultado: 1 - 4
+  --------------------------------------------------
+    Remates totales:    Bolonia (Ita) -  |  Pisa (Ita) -
+    Remates a puerta:  Bolonia (Ita) -  |  Pisa (Ita) -
+    Corners:           Bolonia (Ita) -  |  Pisa (Ita) -
+    Tarjetas amarillas: Bolonia (Ita) -  |  Pisa (Ita) -
+    URL partido: https://m.flashscore.es/partido/8zGN9lD4/?t=estadisticas
+
+  Resumen 5 partidos:
+    Mas remates: 3 | Mas remates a puerta: 2 | Mas corners: 3 | Mas amarillas: 1
+    Como local (3): Mas remates 2 | Mas remates a puerta 1 | Mas corners 2 | Mas amarillas 1
+    Como visitante (2): Mas remates 1 | Mas remates a puerta 1 | Mas corners 1 | Mas amarillas 0
+    Estadisticas agregadas:
+    Remates: favor media 17.00 | max 21 | min 14 || contra media 10.33 | max 15 | min 6
+    Remates a puerta: favor media 4.33 | max 5 | min 3 || contra media 3.67 | max 6 | min 2
+    Corners: favor media 6.67 | max 10 | min 2 || contra media 4.67 | max 7 | min 1
+    Tarjetas amarillas: favor media 2.33 | max 4 | min 0 || contra media 2.00 | max 4 | min 1
+
+----------------------------------------------------------------------
+  ENFRENTAMIENTOS DIRECTOS NÁPOLES vs BOLONIA
+----------------------------------------------------------------------
+
+  Partido 1:  Nápoles  vs  Bolonia   |   Resultado: 2 - 3
+  --------------------------------------------------
+    Remates totales:    Nápoles 14  |  Bolonia 10
+    Remates a puerta:  Nápoles 5  |  Bolonia 4
+    Corners:           Nápoles 8  |  Bolonia 1
+    Tarjetas amarillas: Nápoles 1  |  Bolonia 4
+    URL partido: https://m.flashscore.es/partido/SGJCqskU/?t=estadisticas
+
+  Partido 2:  Nápoles  vs  Bolonia   |   Resultado: 2 - 0
+  --------------------------------------------------
+    Remates totales:    Nápoles 15  |  Bolonia 11
+    Remates a puerta:  Nápoles 8  |  Bolonia 3
+    Corners:           Nápoles 7  |  Bolonia 5
+    Tarjetas amarillas: Nápoles 2  |  Bolonia 3
+    URL partido: https://m.flashscore.es/partido/AghUs7w2/?t=estadisticas
+
+  Partido 3:  Bolonia  vs  Nápoles   |   Resultado: 2 - 0
+  --------------------------------------------------
+    Remates totales:    Nápoles 4  |  Bolonia 11
+    Remates a puerta:  Nápoles 1  |  Bolonia 4
+    Corners:           Nápoles 4  |  Bolonia 5
+    Tarjetas amarillas: Nápoles 3  |  Bolonia 1
+    URL partido: https://m.flashscore.es/partido/WGYRBkmK/?t=estadisticas
+
+  Partido 4:  Bolonia  vs  Nápoles   |   Resultado: 1 - 1
+  --------------------------------------------------
+    Remates totales:    Nápoles 6  |  Bolonia 12
+    Remates a puerta:  Nápoles 2  |  Bolonia 4
+    Corners:           Nápoles 3  |  Bolonia 8
+    Tarjetas amarillas: Nápoles 3  |  Bolonia 1
+    URL partido: https://m.flashscore.es/partido/MwRDTF6E/?t=estadisticas
+
+  Partido 5:  Nápoles  vs  Bolonia   |   Resultado: 3 - 0
+  --------------------------------------------------
+    Remates totales:    Nápoles 16  |  Bolonia 8
+    Remates a puerta:  Nápoles 5  |  Bolonia 2
+    Corners:           Nápoles 7  |  Bolonia 5
+    Tarjetas amarillas: Nápoles 2  |  Bolonia 2
+    URL partido: https://m.flashscore.es/partido/2uc40Ntf/?t=estadisticas
+
+  Resumen 5 partidos:
+    Mas remates: 3 | Mas remates a puerta: 3 | Mas corners: 3 | Mas amarillas: 2
+    Como local (3): Mas remates 3 | Mas remates a puerta 3 | Mas corners 3 | Mas amarillas 0
+    Como visitante (2): Mas remates 0 | Mas remates a puerta 0 | Mas corners 0 | Mas amarillas 2
+    Estadisticas agregadas:
+    Remates: favor media 11.00 | max 16 | min 4 || contra media 10.40 | max 12 | min 8
+    Remates a puerta: favor media 4.20 | max 8 | min 1 || contra media 3.40 | max 4 | min 2
+    Corners: favor media 5.80 | max 8 | min 3 || contra media 4.80 | max 8 | min 1
+    Tarjetas amarillas: favor media 2.20 | max 3 | min 1 || contra media 2.20 | max 4 | min 1
+
+----------------------------------------------------------------------
+  RESUMEN GLOBAL (LOCAL EN CASA VS VISITANTE FUERA)
+----------------------------------------------------------------------
+  Nápoles como local: 3 partidos, con mas remates en 0, mas remates a puerta en 0, mas corners en 0 y mas amarillas en 2.
+  Medias Nápoles: remates 11.75, remates a puerta 4.00, corners 3.00, amarillas 1.50.
+  Max/Min Nápoles: remates 16/5, remates a puerta 7/2, corners 5/0, amarillas 2/1.
+  Bolonia como visitante: 2 partidos, con mas remates en 1, mas remates a puerta en 1, mas corners en 1 y mas amarillas en 0.
+  Medias Bolonia: remates 17.00, remates a puerta 4.33, corners 6.67, amarillas 2.33.
+  Max/Min Bolonia: remates 21/14, remates a puerta 5/3, corners 10/2, amarillas 4/0.
+  Enfrentamientos directos (5 partidos): mas remates en 3, mas remates a puerta en 3, mas corners en 3 y mas amarillas en 2 (perspectiva Nápoles).
+  Medias enfrentamientos: remates 11.00, remates a puerta 4.20, corners 5.80, amarillas 2.20.
+  Max/Min enfrentamientos: remates 16/4, remates a puerta 8/1, corners 8/3, amarillas 3/1.
+
+----------------------------------------------------------------------
+  RESUMEN RESULTADOS (G/E/P)
+----------------------------------------------------------------------
+  Nápoles: en los ultimos 5, ha ganado 2, empatado 0 y perdido 3 (partidos con marcador: 5).
+  Bolonia: en los ultimos 5, ha ganado 0, empatado 1 y perdido 4 (partidos con marcador: 5).
+
+----------------------------------------------------------------------
+  INDICADORES AVANZADOS Y SENALES
+----------------------------------------------------------------------
+  Nápoles: eficiencia remate 0.69, [ALTO], precision tiro 0.34, [MEDIO], dominio neto remates -10.00, [ALTO NEGATIVO], dominio neto puerta -2.00, [ALTO NEGATIVO], dominio neto corners -4.00.
+  Nápoles: intensidad 43.50, [ALTA], agresividad 2.50, [BAJA], tendencia reciente -13.70, [BAJISTA], volatilidad 11.00, [ALTA], indice dominio -6.00, [ALTO NEGATIVO], indice riesgo gol 10.00.
+  Bolonia: eficiencia remate 0.23, [BAJO], precision tiro 0.25, [BAJO], dominio neto remates 6.67, [ALTO POSITIVO], dominio neto puerta 0.67, [MEDIO POSITIVO], dominio neto corners 2.00.
+  Bolonia: intensidad 38.67, [ALTA], agresividad 4.33, [MEDIA], tendencia reciente 7.00, [ALCISTA], volatilidad 4.00, [MEDIA], indice dominio 3.63, [ALTO POSITIVO], indice riesgo gol 8.00.
+  H2H: over1.5 100.00%, BTTS 40.00%, agresividad 4.40, indice dominio 0.75.
+  Proyecciones partido:
+    Remates a puerta totales esperados: 9.00 | Goles totales esperados: 3.10 | Corners totales esperados: 10.67 | Tarjetas totales esperadas: 3.42
+  Senales de mercado (orientativas):
+    Over 1.5 goles -> score 100/100 (ALTA)
+    Ambos marcan (BTTS) -> score 90/100 (ALTA)
+    Over 8.5 corners -> score 75/100 (ALTA)
+    Over 3.5 tarjetas -> score 40/100 (BAJA)
+    Local empate no apuesta (DNB) -> score 35/100 (BAJA)
+
+----------------------------------------------------------------------
+  COMO LLEGAN AL PARTIDO
+----------------------------------------------------------------------
+  Nápoles: llega con desventaja estadistica clara, y una dinamica reciente negativa; presenta ataque aceptable, ritmo alto y riesgo de gol alto. Balance reciente: 2G-0E-3P.
+  Nápoles: sin datos de clasificacion de liga para ampliar el analisis.
+
+  Bolonia: llega con superioridad estadistica clara, y una dinamica reciente positiva; presenta ataque poco eficiente, ritmo alto y riesgo de gol medio. Balance reciente: 0G-1E-4P.
+  Bolonia: sin datos de clasificacion de liga para ampliar el analisis.
+
+----------------------------------------------------------------------
+  POSIBLE PRONOSTICO
+----------------------------------------------------------------------
+  1X2 estimado: 2 (victoria probable de Bolonia) | confianza ALTA.
+  Base numerica: goles esperados ajustados Nápoles 1.70 - 1.40 Bolonia (base cruda 2.00 - 1.10); score local 0.00/100.
+  Marcadores correctos orientativos: 1-2 | 2-1 | 2-2
+======================================================================
