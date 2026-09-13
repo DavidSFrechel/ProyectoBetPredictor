@@ -1,0 +1,35 @@
+Partidos agrupados por refresco automático
+Fecha: 2026-09-13 13:24
+
+
+Bloque: 14:00 - 16:00
+- [LaLiga EA Sports] 14:00 Celta de Vigo - Málaga   (id: bwKgvR1C) (odds: 1.70/3.70/5.25)
+- [LaLiga Hypermotion] 14:00 Real Sporting - Eldense   (id: CjuD9Gvn) (odds: 1.53/3.75/6.00)
+- [Eredivisie] 14:30 Heerenveen - Telstar   (id: 0bd71l1M) (odds: 1.57/4.75/4.75)
+- [Ligue 1] 15:00 Lille - Troyes   (id: EVVF4G0T) (odds: 1.42/4.75/7.00)
+- [Premier League] 15:00 Coventry - Brighton   (id: OYvwj5O9) (odds: 3.75/4.00/1.90)
+- [Serie A] 15:00 Lecce - Monza   (id: nqYBi3bL) (odds: 2.75/3.10/2.75)
+- [Bundesliga] 15:30 RB Leipzig - Hamburgo   (id: z3obE9xB) (odds: 1.33/5.50/8.00)
+
+Bloque: 16:00 - 18:00
+- [LaLiga EA Sports] 16:15 Levante - Barcelona   (id: fa2Bd8Ht) (odds: 15.00/8.50/1.14)
+- [LaLiga Hypermotion] 16:15 Real Valladolid - Real Oviedo   (id: hUtT5YwB) (odds: 2.40/3.10/3.10)
+- [Eredivisie] 16:45 Zwolle - Feyenoord   (id: 4EyuGmGF) (odds: 5.50/5.25/1.48)
+- [Ligue 1] 17:15 Le Mans - Lens   (id: 65S76xWG) (odds: 4.75/4.33/1.65)
+- [Bundesliga] 17:30 Elversberg - Bayern Múnich   (id: Ot9I6Iz2) (odds: 15.00/10.00/1.13)
+- [Premier League] 17:30 Manchester Utd - Manchester City   (id: 0YOA44w3) (odds: 3.10/3.75/2.15)
+
+Bloque: 18:00 - 20:00
+- [Serie A] 18:00 Nápoles - Bolonia   (id: rFJsnsMr) (odds: 1.91/3.50/4.10)
+- [LaLiga EA Sports] 18:30 Getafe - Deportivo de A Coruña   (id: 63N1x5WO) (odds: 2.55/2.90/3.10)
+- [LaLiga Hypermotion] 18:30 Mallorca - Sabadell   (id: ry53kDgU) (odds: 1.86/3.25/4.33)
+- [Liga Portugal] 19:00 Arouca - Santa Clara   (id: 2XqCo2jn) (odds: 2.55/3.10/2.85)
+- [Liga Portugal] 19:00 Benfica - Gil Vicente   (id: htF8sBeS) (odds: 1.11/7.50/21.00)
+
+Bloque: 20:00 - 22:00
+- [Eredivisie] 20:00 PSV - Sparta Rotterdam   (id: 4foof6gd) (odds: 1.17/8.00/15.00)
+- [Ligue 1] 20:45 Brest - PSG   (id: QRQiAKWi) (odds: 10.00/7.00/1.25)
+- [Serie A] 20:45 Sassuolo - Juventus   (id: juNkpLje) (odds: 4.75/3.90/1.67)
+- [LaLiga EA Sports] 21:00 Real Sociedad - Atlético de Madrid   (id: GG5skrGU) (odds: 3.20/3.70/2.10)
+- [LaLiga Hypermotion] 21:00 Tenerife - Leganés   (id: KGrL7f9b) (odds: 2.20/3.00/3.60)
+- [Liga Portugal] 21:30 Famalicao - Sporting CP   (id: EBNbPBZq) (odds: 6.50/4.20/1.46)
