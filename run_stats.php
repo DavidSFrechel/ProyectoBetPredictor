@@ -14,7 +14,7 @@ if ($match === '' || mb_strlen($match) > 200) {
 }
 
 $python = 'C:\\Users\\dsfre\\AppData\\Local\\Programs\\Python\\Python312\\python.exe';
-$script = 'C:\\David\\Personal\\ProyectoBetPredictor\\estadisticas_ultimos_cinco_mobile.py';
+$script = __DIR__ . DIRECTORY_SEPARATOR . 'estadisticas_ultimos_cinco_mobile.py';
 if (!is_file($python) || !is_file($script)) {
     http_response_code(500);
     exit('No se encontró Python o el script de estadísticas.');

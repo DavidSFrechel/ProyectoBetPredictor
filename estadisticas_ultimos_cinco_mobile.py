@@ -17,11 +17,34 @@ STATS_URL_TEMPLATE = f"{BASE_URL}/partido/{{match_id}}/?t=estadisticas"
 
 LIGA_URLS = {
     "la_liga": "https://footystats.org/es/spain/la-liga",
+    "laliga_ea_sports": "https://footystats.org/es/spain/la-liga",
+    "laliga_hypermotion": "https://footystats.org/es/spain/la-liga-hypermotion",
     "premier_league": "https://footystats.org/es/england/premier-league",
     "championship": "https://footystats.org/es/england/championship",
     "serie_a": "https://footystats.org/es/italy/serie-a",
     "bundesliga": "https://footystats.org/es/germany/bundesliga",
     "ligue_1": "https://footystats.org/es/france/ligue-1",
+    "liga_portugal": "https://footystats.org/es/portugal/liga-portugal",
+    "eredivisie": "https://footystats.org/es/netherlands/eredivisie",
+}
+
+LIGA_ALIASES = {
+    "la_liga": "la_liga",
+    "laliga": "la_liga",
+    "laliga_ea_sports": "la_liga",
+    "laliga_hypermotion": "laliga_hypermotion",
+    "la_liga_hypermotion": "laliga_hypermotion",
+    "laliga_smartbank": "laliga_hypermotion",
+    "premier_league": "premier_league",
+    "premier": "premier_league",
+    "championship": "championship",
+    "serie_a": "serie_a",
+    "bundesliga": "bundesliga",
+    "ligue_1": "ligue_1",
+    "ligue1": "ligue_1",
+    "liga_portugal": "liga_portugal",
+    "liga_portugal_bwin": "liga_portugal",
+    "eredivisie": "eredivisie",
 }
 
 LOCAL_TEAM = "Real Sociedad"
@@ -39,7 +62,8 @@ def _override_from_argv():
             arg1 = pos_args[0].strip()
             if arg1:
                 key = arg1.lower().replace(' ', '_')
-                if arg1.startswith('http') or key in LIGA_URLS:
+                alias_key = LIGA_ALIASES.get(key, key)
+                if arg1.startswith('http') or alias_key in LIGA_URLS:
                     LIGA = arg1
                 elif ' - ' in arg1 or '-' in arg1:
                     sep = ' - ' if ' - ' in arg1 else '-'
@@ -56,7 +80,8 @@ def _override_from_argv():
                         LOCAL_TEAM, VISITOR_TEAM = parts[0], parts[1]
                 else:
                     key = arg2.lower().replace(' ', '_')
-                    if arg2.startswith('http') or key in LIGA_URLS:
+                    alias_key = LIGA_ALIASES.get(key, key)
+                    if arg2.startswith('http') or alias_key in LIGA_URLS:
                         LIGA = arg2
     except Exception:
         pass
@@ -168,7 +193,9 @@ def _resolver_liga_url(liga):
         return None
     if liga.startswith(("http://", "https://")):
         return liga
-    return LIGA_URLS.get(_normalizar_texto(liga).replace(" ", "_"))
+    key = _normalizar_texto(liga).replace(" ", "_")
+    alias_key = LIGA_ALIASES.get(key, key)
+    return LIGA_URLS.get(alias_key)
 
 
 def _extraer_tabla_footystats(html_text: str):
